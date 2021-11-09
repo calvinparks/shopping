@@ -2,7 +2,7 @@
 
 Shopping:
 
-An AI to predict whether online shopping customers will complete a purchase using the  SCIKIT-LEARN: A FREE MACHINE LEARNING LIBRARY FOR PYTHON.
+An AI to predict whether online shopping customers will complete a purchase using the  SCIKIT-LEARN: A MACHINE LEARNING LIBRARY FOR PYTHON.
 
 ## Description
 
